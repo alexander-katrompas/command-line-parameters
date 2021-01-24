@@ -1,6 +1,6 @@
 # Introduction to Command Line Parameters in C/C++
 
-Compile this program with g++ -I ./ main.cpp
+Compile this program with **g++ -I ./ main.cpp**
 
 Run it from the command line using the program name and multiple parameters and observe the output. For example:
 
