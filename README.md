@@ -1,5 +1,4 @@
-# command-line-parameters
-An example of working with command line parameters in C/C++.
+# Introduction to Command Line Parameters in C/C++
 
 Compile this program with g++ -I ./ main.cpp
 
