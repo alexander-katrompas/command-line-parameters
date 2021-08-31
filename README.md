@@ -11,7 +11,7 @@ Linux and Mac:
 - a.out this is a lot of parameters
 
 Windows
-- a
-- a hello
-- a hello world
-- a this is a lot of parameters
+- C:\folder\folder\a.exe
+- C:\folder\folder\a.exe hello
+- C:\folder\folder\a.exe hello world
+- C:\folder\folder\a.exe this is a lot of parameters
